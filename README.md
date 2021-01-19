@@ -1,6 +1,6 @@
 # Date: Dec 2019 
 
-My implementation of a shared concurrent (multithreaded using pthread library) red black tree using readers/writers algorithm (priority with readers)
+My C++ implementation of a shared concurrent (multithreaded using pthread library) red black tree using readers/writers algorithm (priority with readers)
 
 # To run the program:
 
