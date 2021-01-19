@@ -14,5 +14,5 @@ My implementation of a shared concurrent (multithreaded using pthread library) r
 
 To see the concurrency: please run the program multiple times to see different orders and results (order depends how the scheduler schedules them which we have no control over). 
 
-Thank you!
+Thank you! </br>
 Fadel 
